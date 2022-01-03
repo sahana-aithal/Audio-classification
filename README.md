@@ -2,7 +2,9 @@
 This project aims at classifying audio files to detect unnatural sounds from the natural sounds found in forests to classify/identify illegal deforestation or poaching
 
 DATA COLLECTION
-To implement our deforestation prevention model, we needed a dataset with ample data points in the categories “natural sounds” and “non-natural sounds”. The dataset we chose, ESC-50, is a collection of audio files, stored in .wav format, grouped into 50 different classes. Each of these classes consists of 40 examples. An overview of the dataset is provided in the table below:
+To implement our deforestation prevention model, we needed a dataset with ample data points in the categories “natural sounds” and “non-natural sounds”. The dataset we chose, ESC-50, is a collection of audio files, stored in .wav format, grouped into 50 different classes. 
+Link: https://github.com/karolpiczak/ESC-50#esc-50-dataset-for-environmental-sound-classification
+Each of these classes consists of 40 examples. An overview of the dataset is provided in the table below:
 ![image](https://user-images.githubusercontent.com/22393419/147980369-2415ee91-22f1-431f-b662-e7da77a134ba.png)
   
  
